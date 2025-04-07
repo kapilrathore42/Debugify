@@ -1,0 +1,14 @@
+E:\DebugifySolution\Debugify\Debugify.Domain\bin\Debug\net9.0\Debugify.Domain.deps.json
+E:\DebugifySolution\Debugify\Debugify.Domain\bin\Debug\net9.0\Debugify.Domain.runtimeconfig.json
+E:\DebugifySolution\Debugify\Debugify.Domain\bin\Debug\net9.0\Debugify.Domain.dll
+E:\DebugifySolution\Debugify\Debugify.Domain\bin\Debug\net9.0\Debugify.Domain.pdb
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.csproj.AssemblyReference.cache
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.AssemblyInfoInputs.cache
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.AssemblyInfo.cs
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.csproj.CoreCompileInputs.cache
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.dll
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\refint\Debugify.Domain.dll
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.pdb
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\Debugify.Domain.genruntimeconfig.cache
+E:\DebugifySolution\Debugify\Debugify.Domain\obj\Debug\net9.0\ref\Debugify.Domain.dll

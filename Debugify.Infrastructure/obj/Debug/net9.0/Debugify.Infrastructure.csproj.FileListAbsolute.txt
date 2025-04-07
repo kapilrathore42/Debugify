@@ -1,0 +1,17 @@
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\bin\Debug\net9.0\Debugify.Infrastructure.deps.json
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\bin\Debug\net9.0\Debugify.Infrastructure.runtimeconfig.json
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\bin\Debug\net9.0\Debugify.Infrastructure.dll
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\bin\Debug\net9.0\Debugify.Infrastructure.pdb
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\bin\Debug\net9.0\Debugify.Domain.dll
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\bin\Debug\net9.0\Debugify.Domain.pdb
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.csproj.AssemblyReference.cache
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.AssemblyInfoInputs.cache
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.AssemblyInfo.cs
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.csproj.CoreCompileInputs.cache
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.F47FB03A.Up2Date
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.dll
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\refint\Debugify.Infrastructure.dll
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.pdb
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\Debugify.Infrastructure.genruntimeconfig.cache
+E:\DebugifySolution\Debugify\Debugify.Infrastructure\obj\Debug\net9.0\ref\Debugify.Infrastructure.dll

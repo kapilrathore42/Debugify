@@ -1,0 +1,17 @@
+E:\DebugifySolution\Debugify\Debugify.Application\bin\Debug\net9.0\Debugify.Application.deps.json
+E:\DebugifySolution\Debugify\Debugify.Application\bin\Debug\net9.0\Debugify.Application.runtimeconfig.json
+E:\DebugifySolution\Debugify\Debugify.Application\bin\Debug\net9.0\Debugify.Application.dll
+E:\DebugifySolution\Debugify\Debugify.Application\bin\Debug\net9.0\Debugify.Application.pdb
+E:\DebugifySolution\Debugify\Debugify.Application\bin\Debug\net9.0\Debugify.Domain.dll
+E:\DebugifySolution\Debugify\Debugify.Application\bin\Debug\net9.0\Debugify.Domain.pdb
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.csproj.AssemblyReference.cache
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.AssemblyInfoInputs.cache
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.AssemblyInfo.cs
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.csproj.CoreCompileInputs.cache
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.2E26F82C.Up2Date
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.dll
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\refint\Debugify.Application.dll
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.pdb
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\Debugify.Application.genruntimeconfig.cache
+E:\DebugifySolution\Debugify\Debugify.Application\obj\Debug\net9.0\ref\Debugify.Application.dll

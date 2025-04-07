@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OI2AC8ahqL/mQvNzTYoArZ9N+DKvf4AbVQDQf2IPyuA=",
+  "Source": "Debugify.API",
+  "BasePath": "_content/Debugify.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

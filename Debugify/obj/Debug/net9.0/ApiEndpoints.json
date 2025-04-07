@@ -1,0 +1,60 @@
+[
+  {
+    "ContainingType": "DebuggingMicroservice.Controllers.AddNewFeatureDebugStepController",
+    "Method": "AddFeatureDebugStep",
+    "RelativePath": "api/debugging/features",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "Debugify.Application.Commands.AddDebuggingStepCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebuggingMicroservice.Controllers.AddNewFeatureDebugStepController",
+    "Method": "GetFeatureeDebugSteps",
+    "RelativePath": "api/debugging/features",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "FeatureName",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "DebuggingMicroservice.Controllers.AddNewFeatureDebugStepController",
+    "Method": "UpdateStep",
+    "RelativePath": "api/debugging/features/{stepId}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "featureName",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "stepId",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "step",
+        "Type": "DebuggingMicroservice.Controllers.DebuggingStep",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
